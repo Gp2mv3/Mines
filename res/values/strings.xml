@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="goAbout">About</string>
+    <string name="app_name">Mines</string>
+    <string name="newGame">New game</string>
+    <string name="aboutTitle">About</string>
+    <string name="about">"This application is developped by Nicolas Cognaux (Gp2mv3). If you have any problem, report it to me. It's my first Android app and i don't like ads so you can disable them with the above button."</string>
+    <string name="breakTitle">Pause</string>
+    <string name="breakTxt">The game is paused.</string>
+    <string name="resume">Resume</string>
+    <string name="haveabreak">Pause</string>
+    <string name="chrono">Chronometer: </string>
+    <string name="winTitle">You won !</string>
+    <string name="winTxt">You won the game in %1$d seconds, try to beat your score now !</string>
+    <string name="looseTitle">You loose !</string>
+    <string name="looseTxt">You loose but you can retry !</string>
+    <string name="scoreTxt">High score: %1$d seconds</string>
+    <string name="playedTxt">You played %1$d times</string>
+    
+    <string name="quitTitle">Are you sure ?</string>
+    <string name="quitTxt">Are you sure that you want to leave the game ?</string>
+    <string name="quit">Leave</string>
+    <string name="back">Back</string>
+    <string name="ad">Ad enabled</string>
+</resources>

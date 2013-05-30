@@ -1,0 +1,5 @@
+(res/drawable-mdpi/ic_launcher.png) icon too small, found an alternate: res/drawable-hdpi/ic_launcher.png:impact=1
+(<unknown source>:751) class: com.google.ads.util.AdUtil$UserActivityReceiver uses intent action android.intent.action.USER_PRESENT:impact=1
+(<unknown source>:737) class: com.google.ads.util.AdUtil uses intent action android.intent.action.USER_PRESENT:impact=1
+Summary: [5]=0; [4]=0; [3]=0; [2]=0; [1]=3;
+Impact Legend: [5]=Severe; [4]=High /context; [3]=Medium /context; [2]=Medium-low /context; [1]=Minor;

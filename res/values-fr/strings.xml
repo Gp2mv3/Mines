@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="goAbout">A propos !</string>
+    <string name="app_name">Mines</string>
+    <string name="newGame">Nouvelle partie</string>
+    <string name="aboutTitle">A propos</string>
+    <string name="about">Cette application a été développée par Nicolas Cognaux (Gp2mv3). Si vous rencontrez des probèmes n\'hésitez pas à me le faire savoir.</string>
+    <string name="breakTitle">Pause</string>
+    <string name="breakTxt">Le jeu est en pause.</string>
+    <string name="resume">Reprendre</string>
+    <string name="haveabreak">Pause</string>
+    <string name="chrono">Chronometre: </string>
+    <string name="winTitle">Vous avez gagné !</string>
+    <string name="winTxt">Vous avez gagné la partie en %1$d seconds, vous pouvez recommencer!</string>
+    <string name="looseTitle">Vous avez perdu !</string>
+    <string name="looseTxt">Vous avez perdu mais vous pouvez rejouer !</string>
+    <string name="scoreTxt">Meilleur score: %1$d secondes</string>
+    <string name="playedTxt">Vous avez joué %1$d parties</string>
+    <string name="quitTitle">Etes-vous sur ?</string>
+    <string name="quitTxt">Voulez-vous vraiment quitter le jeu ?</string>
+    <string name="quit">Quitter</string>
+    <string name="back">Retour</string>
+</resources>
